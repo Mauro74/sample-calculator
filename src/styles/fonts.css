@@ -1,0 +1,15 @@
+@font-face {
+  font-family: "Helvetica Neue LT Medium";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Helvetica Neue LT Medium"),
+    url("../assets/fonts/Helvetica Neue LT 65 Medium.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Helvetica Neue LT Light";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Helvetica Neue LT Light"),
+    url("../assets/fonts/Helvetica Neue LT 45 Light.woff") format("woff");
+}
